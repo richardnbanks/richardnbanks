@@ -8,6 +8,7 @@ I enjoy making things and learning as I go.
 
 ## Some tools I like to use
 
+<div align="left">
 <img src="https://skillicons.dev/icons?i=js" alt="JavaScript Logo" height="40" />
 <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript Logo" height="40" />
 <img src="https://skillicons.dev/icons?i=svelte" alt="Svelte Logo" height="40" />
@@ -20,9 +21,11 @@ I enjoy making things and learning as I go.
 <img src="https://skillicons.dev/icons?i=idea" alt="InteliJ Logo" height="40" />
 <img src="https://cdn.simpleicons.org/fedora/51A2DA" alt="Fedora Logo" height="40" />
 <img src="https://skillicons.dev/icons?i=cloudflare" alt="CloudFlare Logo" height="40" />
+</div>
 
 ## Where else you find me
 
+<div align="left">
 <a href="https://bsky.app/profile/richardbanks.dev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/bluesky/default.svg" width="32" height="32" alt="Bluesky Logo"  />
 </a>
@@ -34,3 +37,4 @@ I enjoy making things and learning as I go.
 <a href="https://www.linkedin.com/in/richardnbanks/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" alt="LinkedIn Logo"  />
 </a>
+</div>
