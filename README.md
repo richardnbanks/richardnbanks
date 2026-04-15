@@ -25,16 +25,14 @@ I enjoy making things and learning as I go.
 
 ## Where else you find me
 
-<div align="left">
 <a href="https://bsky.app/profile/richardbanks.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/bluesky/default.svg" width="32" height="32" alt="Bluesky Logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/bluesky/default.svg" width="16" height="16" alt="Bluesky Logo"  /> Bluesky
 </a>
-&nbsp;
+<br />
 <a href="https://www.youtube.com/@richardnbanks" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="32" height="32" alt="YouTube Logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="16" height="16" alt="YouTube Logo"  /> YouTube
 </a>
-&nbsp;
+<br />
 <a href="https://www.linkedin.com/in/richardnbanks/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" alt="LinkedIn Logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="16" height="16" alt="LinkedIn Logo"  /> LinkedIn
 </a>
-</div>
